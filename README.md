@@ -1,2 +1,1 @@
-# BMI_CALC
-Python Body Mass Index Calculator
+# A simple python program to calculate Body Mass Index (BMI) & show your health category .
